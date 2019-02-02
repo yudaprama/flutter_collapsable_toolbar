@@ -1,8 +1,8 @@
 name: flutter_collapsable_toolbar
 description: A new Flutter package.
 version: 0.0.1
-author:
-homepage:
+author: Yuda Prama <yudapramad@gmail.com>
+homepage: https://github.com/yudaprama/flutter_collapsable_toolbar
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
